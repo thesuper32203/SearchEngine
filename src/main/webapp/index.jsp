@@ -1,5 +1,8 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<form>
+    <input = "text"></input>
+    <button type = "submit">Search</button>
+</form>
 </body>
 </html>
